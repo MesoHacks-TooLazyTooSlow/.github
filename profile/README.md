@@ -1,4 +1,4 @@
-![AM](https://user-images.githubusercontent.com/86000208/188281599-554e70ff-e8db-41e5-8b0d-fc579570be8d.png)
+![AM](https://github.com/MesoHacks-TooLazyTooSlow/.github/blob/main/images/AM.png)
 
 #### In India, we often hear the news about deaths in road accidents. Quite a few times, the ambulance could not reach on time. It is recorded that about 30% of deaths are caused due to delayed ambulances, and this is not a small ratio. Hence, we came up with a solution for this - `AMbulance🚑`.
 
