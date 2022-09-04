@@ -11,12 +11,6 @@ The idea behind this app is that a needy person can get help in two clicks. The 
 In case of any emergency, volunteers will receive a text message containing the live location of the person who needs help. We don't want to put any compulsion; thus, it's the volunteer's choice whether to help the person or not.
 
 
-
-## 🧑‍🔬App Demosntration
-
-
-
-
 ## 🔭Future of the project
 We will look to scale this project. We are planning to create a web application as well for easy access. Further, we want to introduce a reward system for those who volunteer to help regarding which we can collaborate with different companies.
 Also, showing the live locations of available volunteers in the application is one of the features we want to integrate into the project so that it will be easy for people to locate a nearby volunteer. 
