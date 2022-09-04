@@ -36,7 +36,7 @@ For instance, there is no business aspect of the project, and we don't want to p
 
 
 ## 🫂Team Members
-- [Ritu Raj Singh](https://github.com/rrsingh11) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ritu-raj-singh/)
-- [Siddhant Dixit](https://github.com/siddhantdixit) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ritu-raj-singh/)
-- [Hussain Omer](https://github.com/hussaino03) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/hussainomer/)
-- [Devansh Purwar](https://github.com/devansh-purwar) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/)
+- [Ritu Raj Singh](https://github.com/rrsingh11) <!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ritu-raj-singh/)-->
+- [Siddhant Dixit](https://github.com/siddhantdixit) 
+- [Hussain Omer](https://github.com/hussaino03) 
+- [Devansh Purwar](https://github.com/devansh-purwar) 
